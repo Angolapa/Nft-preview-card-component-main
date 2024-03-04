@@ -49,6 +49,7 @@ body{
 .imageEye:hover{
     opacity: 1;/*Cambia la opacidad de la imagen*/
     cursor: pointer;
+    transition: all 0.4s ease-in-out;
 
 }
 
